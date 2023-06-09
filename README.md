@@ -1,4 +1,4 @@
-# Ascender
+# ppm-and-bm-for-hackers - PPM and Bayesian Method for Hackers 
 
 ![stable](https://img.shields.io/badge/stable-v0.1.3-blue)
 ![python versions](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)
@@ -10,8 +10,12 @@
 [![Typing: mypy](https://img.shields.io/badge/typing-mypy-blue)](https://github.com/python/mypy)
 [![DOI](https://zenodo.org/badge/466620310.svg)](https://zenodo.org/badge/latestdoi/466620310)
 
-## What is Ascender?
-
+## What is ppm-and-bm-for-hackers?
+This repository holds a summerized version of [Probabilistic Programming and Bayesian Method for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) for personal use.  
+Codes, documents and everything in this repo may change time to time.  
+  
+  
+/*** To be rewritten below. ***/  
 Ascender (Accelerator of SCiENtific DEvelopment and Research) is a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) for research projects using Python as a developing language. The following features are pre-implemented to accelerate your development:
 
 - **Container**: Use of [Docker](https://www.docker.com/) reduces development environment dependencies and improves code portability.
